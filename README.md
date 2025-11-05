@@ -79,8 +79,14 @@
 
 <br/>
 
-<!-- GitHub Streak Stats (Yeni aktif sunucu - vercel.app) -->
-<img src="https://streak-stats.demolab.com?user=AnonymousJoseph&theme=ambient_gradient&hide_border=false" alt="AnonymousJoseph's GitHub Streak" />
+<br/>
+
+
+<div align="center">
+  <img alt="GitHub Streak (fallback)" src="https://git-hub-streak-stats.vercel.app?user=AnonymousJoseph&theme=ambient_gradient&hide_border=false" />
+</div>
+
+
 
 <br/>
 
@@ -102,6 +108,5 @@
 
 ---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 </div>
