@@ -75,19 +75,37 @@
 
 
 <details>
-  <summary>click here</summary>
+  <summary>📊 Click here to show my detailed GitHub stats</summary>
 
+  <br/>
 
-<p align="center">
-  <a href="https://github.com/yusuf-ozcan">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=yusuf-ozcan&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusuf-ozcan&theme=radical&layout=compact"/>
-    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=yusuf-ozcan&theme=radical"/>
-    <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yusuf-ozcan&theme=radical"/>
-  </a>
-</p>
+  <!-- Overall GitHub Stats -->
+  ![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusuf-ozcan&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+
+  <!-- Top Languages -->
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yusuf-ozcan&layout=compact&theme=radical)
+
+  <!-- Streak Stats -->
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yusuf-ozcan&theme=radical)
+
+  <!-- Activity Graph -->
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yusuf-ozcan&theme=react-dark&area=true&hide_border=true)
+
+  <!-- GitHub Trophies -->
+  ![Trophies](https://github-profile-trophy.vercel.app/?username=yusuf-ozcan&theme=onedark)
+
+  <br/>
+
+  <details>
+    <summary>📅 Click to view Contribution Calendar</summary>
+    <br/>
+    <img alt="Contribution Calendar" src="https://ghchart.rshah.org/006AFF/yusuf-ozcan">
+  </details>
+
+  <br/>
+
+  
 </details>
-
 
 
 ---
