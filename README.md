@@ -11,10 +11,10 @@
 ---
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yusuf.ozcant) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusuf-özcan/) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@yusufozcan) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yusufozcan.dev@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yusuf.ozcant) 
 
 ---
 
@@ -67,24 +67,14 @@
 
   <br/>
 
- ![Yusuf's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=yusuf-ozcan&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![Yusuf's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=yusuf-ozcan&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yusuf-ozcan&layout=compact&theme=radical)
 
 ![GitHub Streak](https://streak-stats.vercel.app/?user=yusuf-ozcan&theme=radical)
 
 
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=yusuf-ozcan&theme=radical&no-bg=true)
-
-  <br/>
-
-  ![Metrics](https://metrics.lecoq.io/yusuf-ozcan?template=classic&base=header,activity,community&theme=radical)
-
-  <br/>
-
-  ![Snake](https://github-contribution-grid-snake.vercel.app/github-contribution-grid-snake.svg?palette=github-dark)
-
+![Last Commit](https://img.shields.io/github/last-commit/yusuf-ozcan/yusuf-ozcan?style=for-the-badge&color=FF4D9D&labelColor=141321&logo=github)
 
 
   <br/>
@@ -92,7 +82,7 @@
   <details>
     <summary>📅 Click to view Contribution Calendar</summary>
     <br/>
-    <img alt="Contribution Calendar" src="https://ghchart.rshah.org/006AFF/yusuf-ozcan">
+  <img alt="Contribution Calendar" src="https://ghchart.rshah.org/FF4D9D/yusuf-ozcan">
   </details>
 
   <br/>
