@@ -71,15 +71,21 @@
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yusuf-ozcan&layout=compact&theme=radical)
 
+![GitHub Streak](https://streak-stats.vercel.app/?user=yusuf-ozcan&theme=radical)
 
- ![GitHub Streak](https://streak-stats.vercel.app/?user=yusuf-ozcan&theme=radical)
 
 
-  <!-- Activity Graph -->
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yusuf-ozcan&theme=react-dark&area=true&hide_border=true)
+![Trophies](https://github-profile-trophy.vercel.app/?username=yusuf-ozcan&theme=radical&no-bg=true)
 
-  <!-- GitHub Summary Card (Trophy Alternative) -->
-![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yusuf-ozcan&theme=radical)
+  <br/>
+
+  ![Metrics](https://metrics.lecoq.io/yusuf-ozcan?template=classic&base=header,activity,community&theme=radical)
+
+  <br/>
+
+  ![Snake](https://github-contribution-grid-snake.vercel.app/github-contribution-grid-snake.svg?palette=github-dark)
+
+
 
   <br/>
 
