@@ -6,7 +6,6 @@
 🤝 I'm open to collaborating on backend **performance optimization** and **scalable system design**.  
 🌱 I’m currently learning **TypeScript**, **microservice architectures (like Kafka)**, and **database technologies (PostgreSQL)**.  
 💬 Ask me about **Java**, **Spring Boot**, **Hibernate**, **SQL**, and **backend development** in general.  
-⚡ Fun fact: My old laptop even has a name — **Blair** 💻  
 
 ---
 
