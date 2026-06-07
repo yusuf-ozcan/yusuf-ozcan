@@ -4,7 +4,7 @@
 
 **AI Researcher &nbsp;·&nbsp; iOS Developer &nbsp;·&nbsp; Backend Engineer**
 
-Visiting Researcher @ [INESC-ID / Instituto Superior Técnico](https://www.inesc-id.pt), Lisbon &nbsp;🇵🇹
+Visiting Research Assistant @ [INESC-ID / Instituto Superior Técnico](https://www.inesc-id.pt), Lisbon &nbsp;🇵🇹
 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yusufozcan.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusuf-özcan/)
